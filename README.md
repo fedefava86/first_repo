@@ -1,2 +1,2 @@
-first_repo
+Repo used for tests
 ==========
