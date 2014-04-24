@@ -1,2 +1,2 @@
-Repo used for tests
+Repo used for tests on git
 ==========
