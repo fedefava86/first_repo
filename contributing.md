@@ -12,3 +12,13 @@ Prova prova prova
 
 * Prova prova prova
 * Prova
+
+```C
+
+static int
+foo(char* a)
+{
+	printf("Hello world\n");
+	return (0);
+}
+```
